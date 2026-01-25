@@ -1,2 +1,4 @@
 This is feature 5 file added. 
 It is a text file similar to others.
+This is feature 5 file.
+It is a text file.
