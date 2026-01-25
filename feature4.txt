@@ -1,0 +1,2 @@
+This is a feature 4 demo text file.
+It is a text file. 
