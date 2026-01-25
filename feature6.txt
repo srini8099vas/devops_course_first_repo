@@ -1,0 +1,2 @@
+This is feature 6 file. 
+It is a text file
