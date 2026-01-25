@@ -2,3 +2,7 @@ This is feature 5 file added.
 It is a text file similar to others.
 This is feature 5 file.
 It is a text file.
+This is an additional line of text.
+Here is another line added to the file.
+More content for feature 5.
+Expanding the text file with more information.
